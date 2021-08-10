@@ -1,0 +1,35 @@
+body{
+    width:100%;
+    height: 100%;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    background-color: transparent;
+    color:#ededed;
+}
+footer{
+            position: fixed;
+            padding: 10px 0;
+            background-color: #03010f;
+            color: #9d9d9d;
+            bottom: 0;
+            width: 100%;
+            text-align: center;
+        }.panel-margin{
+         margin-top: 80px;
+         margin-bottom: 80px;
+        }.text-center{
+            text-align: center;
+        }
+        .panel-heading{
+            float: center;
+            width: 600px 800px;
+        }
+        
+        
+           
+           
+        
+        
